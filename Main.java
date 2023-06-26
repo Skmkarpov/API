@@ -5,7 +5,7 @@ public class Main {
         post.name = "Иван";
         post.passport = "1234 № 44444444";
         post.patronumic = "Петрович";
-        post.phone = "+8 (800)-555-35-55";
+        post.phone = "+7 (800)-555-35-55";
         post.surname = "Иванов";
         post.subscription = true;
 
